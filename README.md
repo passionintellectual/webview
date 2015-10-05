@@ -29,6 +29,7 @@ Shift + Right : resize from Right
 Shift  + Top : resize from top
 Shift + Bottom : resize from bottom.
 
-Global Keys:
-
+Global Windows Keys:
+Shift + Escape : Hide all the windows.
+Shift + Tab : Show Home window then press O to show webview window.
 
