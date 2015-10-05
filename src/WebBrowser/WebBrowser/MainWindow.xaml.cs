@@ -22,6 +22,7 @@ namespace WebBrowser
 
         private string _jsScript;
         private bool alwaysOnTop;
+        public string WindowTitle;
         public MainWindow()
         {
             InitializeComponent();
@@ -33,7 +34,7 @@ namespace WebBrowser
             JsScript = Common.Default.JSSetting;
             txtUrl.Text = defaultURL;
 
-
+            WindowTitle = Common.Default.WindowTitle;
             CloseApplicationCommand = new RelayCommand<object>(OnCloseApplication, x => true);
             OpenApplicationCommand = new RelayCommand<object>(OnOpenApplication, x => true);
             HideApplicationCommand = new RelayCommand<object>(OnHideApplication, obj => true);

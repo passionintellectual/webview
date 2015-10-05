@@ -109,12 +109,12 @@ namespace WebBrowser
             if (!showWindows)
             {
                 HideWindow("home");
-                HideWindow("http://stackoverflow.com/");
+                HideWindow(Common.Default.WindowTitle);
             }
             else
             {
 
-                ShowWindow("http://stackoverflow.com/");
+                ShowWindow(Common.Default.WindowTitle);
                 ShowWindow("home");
             }
 

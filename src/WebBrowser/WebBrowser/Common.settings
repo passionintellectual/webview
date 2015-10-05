@@ -14,5 +14,8 @@
     <Setting Name="LastURL" Type="System.String" Scope="User">
       <Value Profile="(Default)">http://google.com</Value>
     </Setting>
+    <Setting Name="WindowTitle" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Webview Application</Value>
+    </Setting>
   </Settings>
 </SettingsFile>

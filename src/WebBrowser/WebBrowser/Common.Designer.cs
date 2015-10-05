@@ -70,5 +70,17 @@ namespace WebBrowser {
                 this["LastURL"] = value;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("Webview Application")]
+        public string WindowTitle {
+            get {
+                return ((string)(this["WindowTitle"]));
+            }
+            set {
+                this["WindowTitle"] = value;
+            }
+        }
     }
 }

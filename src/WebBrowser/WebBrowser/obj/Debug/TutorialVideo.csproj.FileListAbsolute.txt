@@ -30,3 +30,15 @@ D:\Ganesh Nemade\Personal\projects\WebLauncher\WebBrowser\WebBrowser\obj\Debug\T
 D:\Ganesh Nemade\Personal\projects\WebLauncher\webview\src\WebBrowser\WebBrowser\bin\Debug\TutorialVideo.exe.config
 D:\Ganesh Nemade\Personal\projects\WebLauncher\webview\src\WebBrowser\WebBrowser\obj\Debug\TutorialVideo.exe
 D:\Ganesh Nemade\Personal\projects\WebLauncher\webview\src\WebBrowser\WebBrowser\obj\Debug\TutorialVideo.pdb
+D:\Ganesh Nemade\Personal\projects\WebLauncher\webview\src\WebBrowser\WebBrowser\bin\Debug\TutorialVideo.exe
+D:\Ganesh Nemade\Personal\projects\WebLauncher\webview\src\WebBrowser\WebBrowser\bin\Debug\TutorialVideo.pdb
+D:\Ganesh Nemade\Personal\projects\WebLauncher\webview\src\WebBrowser\WebBrowser\obj\Debug\TutorialVideo.csprojResolveAssemblyReference.cache
+D:\Ganesh Nemade\Personal\projects\WebLauncher\webview\src\WebBrowser\WebBrowser\obj\Debug\home.baml
+D:\Ganesh Nemade\Personal\projects\WebLauncher\webview\src\WebBrowser\WebBrowser\obj\Debug\MainWindow.baml
+D:\Ganesh Nemade\Personal\projects\WebLauncher\webview\src\WebBrowser\WebBrowser\obj\Debug\home.g.cs
+D:\Ganesh Nemade\Personal\projects\WebLauncher\webview\src\WebBrowser\WebBrowser\obj\Debug\MainWindow.g.cs
+D:\Ganesh Nemade\Personal\projects\WebLauncher\webview\src\WebBrowser\WebBrowser\obj\Debug\App.g.cs
+D:\Ganesh Nemade\Personal\projects\WebLauncher\webview\src\WebBrowser\WebBrowser\obj\Debug\TutorialVideo_MarkupCompile.cache
+D:\Ganesh Nemade\Personal\projects\WebLauncher\webview\src\WebBrowser\WebBrowser\obj\Debug\TutorialVideo.g.resources
+D:\Ganesh Nemade\Personal\projects\WebLauncher\webview\src\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Properties.Resources.resources
+D:\Ganesh Nemade\Personal\projects\WebLauncher\webview\src\WebBrowser\WebBrowser\obj\Debug\TutorialVideo.csproj.GenerateResource.Cache
