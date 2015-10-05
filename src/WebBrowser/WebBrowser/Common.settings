@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WebBrowser" GeneratedClassName="Common">
+  <Profiles />
+  <Settings>
+    <Setting Name="CSSSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="JSSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DefaultURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://google.com</Value>
+    </Setting>
+    <Setting Name="LastURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://google.com</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
