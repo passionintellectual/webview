@@ -27,3 +27,6 @@ D:\Ganesh Nemade\Personal\projects\WebLauncher\WebBrowser\WebBrowser\obj\Debug\T
 D:\Ganesh Nemade\Personal\projects\WebLauncher\WebBrowser\WebBrowser\obj\Debug\TutorialVideo.g.resources
 D:\Ganesh Nemade\Personal\projects\WebLauncher\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Properties.Resources.resources
 D:\Ganesh Nemade\Personal\projects\WebLauncher\WebBrowser\WebBrowser\obj\Debug\TutorialVideo.csproj.GenerateResource.Cache
+D:\Ganesh Nemade\Personal\projects\WebLauncher\webview\src\WebBrowser\WebBrowser\bin\Debug\TutorialVideo.exe.config
+D:\Ganesh Nemade\Personal\projects\WebLauncher\webview\src\WebBrowser\WebBrowser\obj\Debug\TutorialVideo.exe
+D:\Ganesh Nemade\Personal\projects\WebLauncher\webview\src\WebBrowser\WebBrowser\obj\Debug\TutorialVideo.pdb
