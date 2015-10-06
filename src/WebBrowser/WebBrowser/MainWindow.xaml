@@ -87,7 +87,7 @@
             <Separator />
             <TextBlock Text="URL" VerticalAlignment="Center"></TextBlock>"
             <TextBox Name="txtUrl" 
-                     Width="300"
+                     Width="290"
                      KeyUp="txtUrl_KeyUp" />
             <Button Command="NavigationCommands.GoToPage"
                     Width="30"
