@@ -314,10 +314,11 @@ namespace WebBrowser
 
             if (doc != null)
             {
-                if (IsBrowserToolbarVisible == Visibility.Visible)
-                {
-                    return;
-                }
+                //This stops page from refreshing when the toolbar is on, and the user can not check the script and css on the page.
+                //if (IsBrowserToolbarVisible == Visibility.Visible)
+                //{
+                //    return;
+                //}
 
                 //Create the sctipt element 
                 var scriptErrorSuppressed = (IHTMLScriptElement)doc.createElement("script");
